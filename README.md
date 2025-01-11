@@ -1,0 +1,1 @@
+Contributed to the creation of a Project Discovery Document for a Cybersecurity trends monitoring platform, conducting market research, selecting data collection tools, and defining user needs analysis.
